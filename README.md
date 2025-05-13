@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/sameerpashaaa">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Sameer%20Pasha&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22
-" alt="Sameer Pasha" /></a>
+    <img src="![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sameer%20Pasha&font=Fira%20Code&center=true&width=400&height=50&color=f75c7e&vCenter=true&size=24&pause=9999999)
+" /></a>
 </p>
 
 <p align="center">
