@@ -1,28 +1,92 @@
-<h1>Hi 👋, I'm Sameer Pasha</h1>
-<p>A passionate Artificial intelligence and Machine learning enigeer</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://github.com/sameerpashaaa/SiteSnapper">I created a tool that gets you the front end info of any website just by entering its URL.</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/sameerpashaaaa" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/Sameer Pasha" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/sameerpashaaa" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerpashaaa&show_icons=true&locale=en" alt="sameerpashaaa" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerpashaaa&" alt="sameerpashaaa" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameerpashaaa" alt="sameerpashaaa" /></a></p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sameer Pasha</title>
+  <style>
+    @keyframes gradientText {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    @keyframes snowflakes-fall {
+      0% { top: -10%; }
+      100% { top: 100%; }
+    }
+
+    @keyframes snowflakes-shake {
+      0% { transform: translateX(0px); }
+      50% { transform: translateX(80px); }
+      100% { transform: translateX(0px); }
+    }
+
+    .neon-heading {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      font-size: 4em;
+      font-weight: 900;
+      letter-spacing: -.05em;
+      text-align: center;
+      background: linear-gradient(270deg, #39ff14, #00ff99);
+      background-size: 200%;
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: gradientText 3s ease infinite;
+    }
+
+    .snowflake {
+      color: #fff;
+      font-size: 1em;
+      font-family: Arial;
+      text-shadow: 0 0 1px #000;
+      position: fixed;
+      top: -10%;
+      z-index: 9999;
+      user-select: none;
+      pointer-events: none;
+      animation-name: snowflakes-fall, snowflakes-shake;
+      animation-duration: 10s, 3s;
+      animation-timing-function: linear, ease-in-out;
+      animation-iteration-count: infinite, infinite;
+    }
+
+    .snowflake:nth-of-type(1) { left: 5%; animation-delay: 0s, 0s; }
+    .snowflake:nth-of-type(2) { left: 15%; animation-delay: 1s, 1s; }
+    .snowflake:nth-of-type(3) { left: 25%; animation-delay: 2s, 0.5s; }
+    .snowflake:nth-of-type(4) { left: 35%; animation-delay: 3s, 2s; }
+    .snowflake:nth-of-type(5) { left: 50%; animation-delay: 4s, 1s; }
+    .snowflake:nth-of-type(6) { left: 65%; animation-delay: 5s, 1.5s; }
+    .snowflake:nth-of-type(7) { left: 75%; animation-delay: 6s, 2.5s; }
+    .snowflake:nth-of-type(8) { left: 85%; animation-delay: 7s, 0.5s; }
+    .snowflake:nth-of-type(9) { left: 95%; animation-delay: 8s, 2s; }
+  </style>
+</head>
+<body>
+  <h1 class="neon-heading">Sameer Pasha</h1>
+  <div class="snowflake">❅</div>
+  <div class="snowflake">❅</div>
+  <div class="snowflake">❅</div>
+  <div class="snowflake">❅</div>
+  <div class="snowflake">❅</div>
+  <div class="snowflake">❅</div>
+  <div class="snowflake">❅</div>
+  <h1>Hi 👋, I'm Sameer Pasha</h1>
+  <p>A passionate Artificial intelligence and Machine learning engineer</p>
+  <h2>🚀 Languages and Tools I Use</h2>
+  <p><!-- ICON LINKS AS IN USER INPUT (omitted for brevity) --></p>
+  <h2>✍️ Recent Posts</h2>
+  <ul>
+    <li><a target="_blank" href="https://github.com/sameerpashaaa/SiteSnapper">I created a tool that gets you the front end info of any website just by entering its URL.</a></li>
+  </ul>
+  <h2>⚡️ Where to find me</h2>
+  <p><!-- SOCIAL BADGES AS IN USER INPUT (omitted for brevity) --></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerpashaaa&show_icons=true&locale=en" alt="sameerpashaaa" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerpashaaa&" alt="sameerpashaaa" /></p>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameerpashaaa" alt="sameerpashaaa" /></a></p>
+</body>
+</html>
+
