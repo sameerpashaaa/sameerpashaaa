@@ -1,58 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Neon Name Rain</title>
-  <style>
-    body {
-      background: black;
-      margin: 0;
-      overflow: hidden;
-    }
-    canvas {
-      display: block;
-    }
-  </style>
-</head>
-<body>
-<canvas id="matrix"></canvas>
-<script>
-  const canvas = document.getElementById("matrix");
-  const ctx = canvas.getContext("2d");
+<!-- Animated Name SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sameerpashaaa/sameerpashaaa/main/name.svg" alt="Sameer Pasha" />
+</p>
 
-  // Fullscreen canvas
-  canvas.height = window.innerHeight;
-  canvas.width = window.innerWidth;
+<h1>Hi 👋, I'm Sameer Pasha</h1>
+<p>A passionate Artificial intelligence and Machine learning engineer</p>
 
-  // Letters to use
-  const letters = "A L E X".split(""); // Change to your name or any letters
-  const fontSize = 20;
-  const columns = canvas.width / fontSize;
+<h2>🚀 Languages and Tools I Use</h2>
+<!-- rest of your content below remains unchanged -->
+<p>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+  <!-- ... your other icons ... -->
+</p>
 
-  // Drops per column
-  const drops = Array(Math.floor(columns)).fill(1);
-
-  function draw() {
-    // Black background with low opacity for trailing effect
-    ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-    ctx.font = fontSize + "px monospace";
-
-    for (let i = 0; i < drops.length; i++) {
-      const text = letters[Math.floor(Math.random() * letters.length)];
-      ctx.fillStyle = `hsl(${Math.random() * 360}, 100%, 70%)`; // Neon random colors
-      ctx.fillText(text, i * fontSize, drops[i] * fontSize);
-
-      if (drops[i] * fontSize > canvas.height || Math.random() > 0.95) {
-        drops[i] = 0;
-      }
-      drops[i]++;
-    }
-  }
-
-  setInterval(draw, 33);
-</script>
-</body>
-</html>
+<!-- Remaining sections remain unchanged -->
