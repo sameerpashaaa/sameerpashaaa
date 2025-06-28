@@ -1,8 +1,3 @@
-<!-- Animated Name SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sameerpashaaa/sameerpashaaa/main/name.svg" alt="Sameer Pasha" />
-</p>
-
 <h1>Hey 👋</h1>
 <p>I'm Sameer, a Artificial Intelligence and Machine Learning engineer.</p>
 
