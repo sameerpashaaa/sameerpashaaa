@@ -13,7 +13,7 @@ class AimlEngineer:
     def __init__(self):
         self.name = "Sameer Pasha"
         self.role = "Aiml Engineer"
-        self.lang = "Python,Java,Html" 
+        self.lang = "Python,Java,ML" 
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
