@@ -74,7 +74,7 @@ class SameerPasha:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerpashaaa&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerpashaaa&theme=dark&hide_border=true&include_all_commits=true&show_icons=true)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=sameerpashaaa&theme=dark&hide_border=true)
 
